@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MAD_Project</string>
+    <string name="password">Password</string>
+    <string name="well_cura">WELL CURA</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="go">GO</string>
+    <string name="register_now">Register Now</string>
+    <string name="signup">SIGNUP</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="order_details">ORDER DETAILS</string>
+    <string name="buy_medicine">BUY MEDICINE</string>
+    <string name="lab_tests">LAB TESTS</string>
+    <string name="health_articles">HEALTH ARTICLES</string>
+    <string name="logout">LOGOUT</string>
+    <string name="empower_your_wellness_journey_your_online_pharmacy_destination">Empower Your Wellness Journey: Your Online Pharmacy Destination</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="dentist">DENTIST</string>
+</resources>
